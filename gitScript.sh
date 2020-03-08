@@ -8,5 +8,5 @@ git commit -m "$COMMIT_MESSAGE"
 git push https://github.com/sarfrazrazi/test.git master
 timestamp=$(date +"%D %T")
 
-git tag v1 
-git push https://github.com/sarfrazrazi/test.git v1
+git tag v2 
+git push https://github.com/sarfrazrazi/test.git v2
