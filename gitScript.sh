@@ -9,4 +9,4 @@ git push https://github.com/sarfrazrazi/test.git master
 timestamp=$(date +"%D %T")
 
 git tag v1 
-git push master --tags
+git push https://github.com/sarfrazrazi/test.git v1
